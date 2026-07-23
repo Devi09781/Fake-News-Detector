@@ -156,7 +156,7 @@ Fake-News-Detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/Devi09781/fake-news-detection.git
 ```
 
 ### 2. Navigate to the Project Directory
